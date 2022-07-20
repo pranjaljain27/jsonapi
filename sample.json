@@ -1,0 +1,32 @@
+[
+	{
+		"empid": 1,
+		"name": "Pranjal Jain",
+		"birth":"27-01-2000"
+	},
+	{
+		"empid": 2,
+		"name": "Abhishek",
+		"birth":"10-11-1995"
+	},
+	{
+		"empid": 3,
+		"name": "Prajwal",
+		"birth":"12-10-1990"
+	},
+	{
+		"empid": 4,
+		"name": "Anmol",
+		"birth":"02-05-1989"
+	},
+	{
+		"empid": 5,
+		"name": "Sai",
+		"birth":"20-03-1993"
+	},
+	{
+		"empid": 6,
+		"name": "Sankalp",
+		"birth":"07-10-1994"
+	}
+]
